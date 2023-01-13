@@ -141,6 +141,17 @@ input[type="checkbox"] {
     background-color: #4c9e9e;
   }
 }
+.p1 {
+  font-style: italic;
+  text-emphasis-color: black;
+  font-size: large;
+}
+.p2 {
+  font-style: italic;
+  text-emphasis-color: black;
+  font-size: large;
+}
+
 footer {
   width: 100%;
   bottom: 0;
@@ -208,6 +219,15 @@ footer .content .right input[type="submit"] {
   margin-top: 12px;
   border: 2px solid #eb2f06;
   transition: all 0.3s ease-in-out;
+}
+footer .content .lower .phone {
+  color: white;
+}
+footer .content .lower .email {
+  color: white;
+}
+footer .middlebox {
+  color: white;
 }
 .content .right input[type="submit"]:hover {
   background: none;

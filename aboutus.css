@@ -142,26 +142,40 @@ input[type="checkbox"] {
 }
 .p1 {
   text-align: left;
-  font-size: xx-large;
+  font-size: x-large;
   text-emphasis-color: black;
   padding-top: 200px;
   padding-left: 100px;
   padding-right: 100px;
+  font-style: italic;
+  padding-bottom: 50px;
 }
 .p2 {
   text-align: left;
-  font-size: xx-large;
+  font-size: x-large;
   text-emphasis-color: black;
   padding-left: 100px;
   padding-right: 100px;
+  padding-bottom: 50px;
+  font-style: italic;
 }
 .p3 {
   text-align: left;
-  font-size: xx-large;
+  font-size: x-large;
   text-emphasis-color: black;
-  padding-bottom: 200px;
+  padding-bottom: 50px;
   padding-left: 100px;
   padding-right: 100px;
+  font-style: italic;
+}
+.p4 {
+  text-align: left;
+  font-size: x-large;
+  text-emphasis-color: black;
+  font-style: italic;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 200px;
 }
 footer {
   width: 100%;
